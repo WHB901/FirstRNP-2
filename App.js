@@ -3,7 +3,9 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
+
   return (
+    
     <View style={styles.container}>
       <Text>This is my First React Native Application</Text>
       <StatusBar style="auto" />
